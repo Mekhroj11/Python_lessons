@@ -1,2 +1,3 @@
 # Python_lessons
-Python Lessons
+Bu yerda siz Python darslarini ko'rishingiz mumkin.
+Here You can see Python lessons.
